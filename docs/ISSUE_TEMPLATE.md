@@ -23,10 +23,6 @@ found at http://wowwiki.wikia.com/wiki/Category:World_of_Warcraft_patches.
 Videos are valid if and only if the footage contains a timestamp or
 information that confirms the time it was recorded. Date of upload is NOT
 valid and does not confirm when it was shot.
-Read the Effective Bug Reporting article at
-https://github.com/elysium-project/server/blob/development/docs/CONTRIBUTING.md
-which covers these points and more.
-
 
 Once you've read this message, delete it and write your report below.
 
